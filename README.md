@@ -1,5 +1,5 @@
 Olá, sou **@pr0mesy** (Gabriel Proença de Jesus Santana)  
 Estou localizado em **Salvador, Bahia, Brasil**  
-Estou aprendendo **Desenvolvimento Full Stack**  
+Estudando **Desenvolvimento Full Stack**, pela Infinity School
 Cursando **Análise e Desenvolvimento de Sistemas**, pela UCSal
  
