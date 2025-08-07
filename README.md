@@ -5,7 +5,7 @@ Sou um estudante apaixonado por desenvolvimento de software, focado principalmen
 ## 🚀 Sobre mim
 
 - 🎓 Em busca da primeira oportunidade como **Desenvolvedor de Software Back-end**
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas, pela UCSal
+- 📚 Estudante de **Análise e Desenvolvimento de Sistemas**, pela UCSal
 - 💡 Sempre disposto a aprender algo novo e encarar desafios!
 
 ## 🛠️ Principais Habilidades
