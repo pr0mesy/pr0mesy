@@ -1,14 +1,14 @@
-# Olá, eu sou o pr0mesy! 👋
+# Olá, eu sou o pr0mesy!
 
 Sou um estudante apaixonado por desenvolvimento de software, focado principalmente no Back-end. Ainda não tenho experiência profissional, mas estou sempre aprendendo e colocando meus conhecimentos em prática através de projetos pessoais.
 
-## 🚀 Sobre mim
+## Sobre mim
 
-- 🎓 Em busca da primeira oportunidade como **Desenvolvedor de Software Back-end**
-- 📚 Estudante de **Análise e Desenvolvimento de Sistemas**, pela UCSal
-- 💡 Sempre disposto a aprender algo novo e encarar desafios!
+- Em busca da primeira oportunidade como **Desenvolvedor de Software Back-end**
+- Estudante de **Análise e Desenvolvimento de Sistemas**, pela UCSal
+- Sempre disposto a aprender algo novo e encarar desafios!
 
-## 🛠️ Principais Habilidades
+## Principais Habilidades
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -17,12 +17,12 @@ Sou um estudante apaixonado por desenvolvimento de software, focado principalmen
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📌 Projeto em destaque
+## Projeto em destaque
 
 - [Sistema de Biblioteca](https://github.com/pr0mesy?tab=repositories)  
   Meu projeto mais recente e favorito! Um sistema para gerenciar bibliotecas, feito para praticar conceitos de back-end
 
-## 📫 Onde me encontrar
+## Onde me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/gabrielpromesy/)
 - [Portfólio](https://proenca-dev.lovable.app/)
