@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="Waving hand">
-  Olá! Me chame de Proença!
+  Olá! Eu sou Gabriel, um Desenvolvedor de Software.
 </h1>
 
 <p align="center">
@@ -37,17 +37,6 @@
 
 ---
 
-## Minhas Estatísticas no GitHub
-
-<p align="center">
-  <a href="https://github.com/pr0mesy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pr0mesy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de pr0mesy" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr0mesy&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas por pr0mesy" />
-  </a>
-</p>
-
----
-
 ## Projeto em Destaque
 
 <p align="center">
@@ -60,9 +49,7 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pr0mesy/pr0mesy/output/github-contribution-grid-snake.svg" alt="Animação da cobra com as contribuições do GitHub">
-</p>
+
 <p align="center">
   Sinta-se à vontade para explorar meus projetos e entrar em contato!
 </p>
