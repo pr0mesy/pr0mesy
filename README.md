@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Sou um desenvolvedor focado em ecossistemas **Java** e **Python**, atualmente cursando Análise e Desenvolvimento de Sistemas. Minha paixão é transformar ideias em soluções de software eficientes e bem estruturadas. Busco ativamente aplicar e expandir meu conhecimento em projetos que resolvem problemas reais.
+  Sou um desenvolvedor focado em ecossistemas <strong>Java</strong> e <strong>Python</strong>, atualmente cursando Análise e Desenvolvimento de Sistemas. Minha paixão é transformar ideias em soluções de software eficientes e bem estruturadas. Busco ativamente aplicar e expandir meu conhecimento em projetos que resolvem problemas reais.
 </p>
 
 <p align="center">
