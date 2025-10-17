@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="Waving hand">
-  Olá! Eu sou Gabriel, um Desenvolvedor de Software.
+  Olá! Eu sou Gabriel, um Desenvolvedor de Software
 </h1>
 
 <p align="center">
@@ -10,21 +10,26 @@
 </p>
 
 <p align="center">
-  Sou um desenvolvedor focado em ecossistemas <strong>Java</strong> e <strong>Python</strong>, atualmente cursando Análise e Desenvolvimento de Sistemas. Minha paixão é transformar ideias em soluções de software eficientes e bem estruturadas. Busco ativamente aplicar e expandir meu conhecimento em projetos que resolvem problemas reais.
+  Sou um desenvolvedor focado em ecossistemas <strong>Java</strong>, <strong>Python</strong> e <strong>Node.js</strong>, atualmente cursando Análise e Desenvolvimento de Sistemas. Minha paixão é transformar ideias em soluções de software eficientes e bem estruturadas. Busco aplicar e expandir meu conhecimento em projetos que resolvem problemas reais.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabrielpromesy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://proenca-dev.lovable.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-E34F26?style=for-the-badge&logo=Koding&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/gabrielpromesy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://proenca-dev.lovable.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-E34F26?style=for-the-badge&logo=Koding&logoColor=white" alt="Portfolio">
+  </a>
 </p>
 
 ---
 
-## Meu Stack de Tecnologias
+## Stack de Tecnologias
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
   <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></a>
   <br>
@@ -44,8 +49,9 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pr0mesy&repo=sistema-transporte-java&theme=dracula&show_owner=true" alt="Card do projeto em destaque">
   </a>
 </p>
+
 <p align="center">
-  Um sistema de cobrança de tarifas de transporte, desenvolvido para solidificar conceitos de arquitetura de software, design patterns e o padrão Strategy pra processar pagamentos.
+  Um sistema de cobrança de tarifas de transporte, desenvolvido para solidificar conceitos de arquitetura de software, design patterns e o padrão Strategy para processar pagamentos.
 </p>
 
 ---
