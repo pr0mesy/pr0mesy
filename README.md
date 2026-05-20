@@ -1,61 +1,69 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="Waving hand">
-  Olá! Eu sou Gabriel, um Desenvolvedor de Software
-</h1>
+# 👨‍💻 Gabriel Proença
+### Backend Developer • Java & Spring Boot
 
-<p align="center">
-  <a href="https://github.com/pr0mesy">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=1572B6&center=true&vCenter=true&width=500&lines=Focado+em+soluções+Back-end.;Construindo+APIs+robustas+e+escaláveis.;Apaixonado+por+arquitetura+de+software." alt="Animação de digitação com minhas especialidades" />
-  </a>
-</p>
+Desenvolvedor backend em formação, com foco em construção de APIs REST escaláveis utilizando Java e Spring Boot. Tenho experiência prática com arquitetura em camadas, autenticação JWT, validação de dados, DTOs, tratamento global de exceções e boas práticas de desenvolvimento.
 
-<p align="center">
-  Sou um desenvolvedor focado em ecossistemas <strong>Java</strong>, <strong>Python</strong> e <strong>Node.js</strong>, atualmente cursando Análise e Desenvolvimento de Sistemas. Minha paixão é transformar ideias em soluções de software eficientes e bem estruturadas. Busco aplicar e expandir meu conhecimento em projetos que resolvem problemas reais.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabrielpromesy/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://proenca-dev.lovable.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-E34F26?style=for-the-badge&logo=Koding&logoColor=white" alt="Portfolio">
-  </a>
-</p>
+Atualmente também desenvolvo projetos utilizando Node.js e FastAPI, sempre buscando escrever código limpo, organizado e de fácil manutenção.
 
 ---
 
-## Stack de Tecnologias
+## 🚀 Tech Stack
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
-  <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></a>
-  <br>
-  <a href="#"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
-  <br>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
-</p>
+![Skills](https://skillicons.dev/icons?i=java,spring,nodejs,python,fastapi,postgres,mysql,docker,git,linux,react)
 
----
+### **Backend**
+Java • Spring Boot • Node.js • Express.js • FastAPI • APIs REST • JWT Authentication
 
-## Projeto em Destaque
+### **Banco de Dados**
+PostgreSQL • MySQL • JPA/Hibernate • SQL
 
-<p align="center">
-  <a href="https://github.com/pr0mesy/sistema-transporte-java" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pr0mesy&repo=sistema-transporte-java&theme=dracula&show_owner=true" alt="Card do projeto em destaque">
-  </a>
-</p>
+### **Arquitetura & Boas Práticas**
+Layered Architecture • DTOs • Clean Code • SOLID • API Validation • Exception Handling
 
-<p align="center">
-  Um sistema de cobrança de tarifas de transporte, desenvolvido para solidificar conceitos de arquitetura de software, design patterns e o padrão Strategy para processar pagamentos.
-</p>
+### **Ferramentas**
+Docker • Git/GitHub • Insomnia • Postman • Linux • IntelliJ IDEA • VS Code
 
 ---
 
-<p align="center">
-  Sinta-se à vontade para explorar meus projetos e entrar em contato!
-</p>
+## 📌 Projetos em destaque
+
+### 📅 Pulse Agenda
+SaaS de agendamento online para barbearias, salões e profissionais autônomos.
+
+**Principais funcionalidades:**
+- Sistema de agendamentos
+- Autenticação e autorização
+- Gestão de clientes e serviços
+- Dashboard administrativo
+- APIs REST estruturadas
+- Arquitetura escalável e organizada
+
+### 🛒 Exclusivo E-commerce
+Backend de e-commerce com foco em organização de regras de negócio e arquitetura backend.
+
+**Recursos implementados:**
+- CRUD completo
+- APIs REST
+- Integração com banco de dados
+- Validação de dados
+- Estrutura em camadas
+- Separação de responsabilidades
+
+---
+
+## 📈 Diferenciais
+
+✔ Foco em desenvolvimento backend com Java e Spring Boot  
+✔ Experiência prática com arquitetura de APIs REST  
+✔ Aplicação de Clean Code e SOLID  
+✔ Facilidade para aprender novas tecnologias  
+✔ Desenvolvimento de projetos completos e escaláveis  
+✔ Conhecimento em múltiplos frameworks backend
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn: https://www.linkedin.com/in/gabrielpromesy/  
+🌐 Portfólio: https://proencadev.base44.app/  
+📧 Email: gabrielpromesy07@gmail.com
