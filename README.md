@@ -38,17 +38,6 @@ SaaS de agendamento online para barbearias, salões e profissionais autônomos.
 - APIs REST estruturadas
 - Arquitetura escalável e organizada
 
-### Exclusivo E-commerce
-Backend de e-commerce com foco em organização de regras de negócio e arquitetura backend.
-
-**Recursos implementados:**
-- CRUD completo
-- APIs REST
-- Integração com banco de dados
-- Validação de dados
-- Estrutura em camadas
-- Separação de responsabilidades
-
 ---
 
 ## Diferenciais
