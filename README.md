@@ -1,5 +1,5 @@
-# 👨‍💻 Gabriel Proença
-### Backend Developer • Java & Spring Boot
+# Gabriel Proença
+### Jr Backend Developer
 
 Desenvolvedor backend em formação, com foco em construção de APIs REST escaláveis utilizando Java e Spring Boot. Tenho experiência prática com arquitetura em camadas, autenticação JWT, validação de dados, DTOs, tratamento global de exceções e boas práticas de desenvolvimento.
 
@@ -7,12 +7,12 @@ Atualmente também desenvolvo projetos utilizando Node.js e FastAPI, sempre busc
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=java,spring,nodejs,python,fastapi,postgres,mysql,docker,git,linux,react)
+![Skills](https://skillicons.dev/icons?i=java,spring,c#,dotnet,nodejs,python,fastapi,postgres,mysql,docker,git,linux,react)
 
 ### **Backend**
-Java • Spring Boot • Node.js • Express.js • FastAPI • APIs REST • JWT Authentication
+Java • Spring Boot • C# • .NET • Node.js • Express.js • FastAPI • APIs REST • JWT Authentication
 
 ### **Banco de Dados**
 PostgreSQL • MySQL • JPA/Hibernate • SQL
@@ -25,9 +25,9 @@ Docker • Git/GitHub • Insomnia • Postman • Linux • IntelliJ IDEA • V
 
 ---
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
-### 📅 Pulse Agenda
+### Pulse Agenda
 SaaS de agendamento online para barbearias, salões e profissionais autônomos.
 
 **Principais funcionalidades:**
@@ -38,7 +38,7 @@ SaaS de agendamento online para barbearias, salões e profissionais autônomos.
 - APIs REST estruturadas
 - Arquitetura escalável e organizada
 
-### 🛒 Exclusivo E-commerce
+### Exclusivo E-commerce
 Backend de e-commerce com foco em organização de regras de negócio e arquitetura backend.
 
 **Recursos implementados:**
@@ -51,7 +51,7 @@ Backend de e-commerce com foco em organização de regras de negócio e arquitet
 
 ---
 
-## 📈 Diferenciais
+## Diferenciais
 
 ✔ Foco em desenvolvimento backend com Java e Spring Boot  
 ✔ Experiência prática com arquitetura de APIs REST  
