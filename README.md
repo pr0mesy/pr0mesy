@@ -15,7 +15,7 @@ Atualmente também desenvolvo projetos utilizando Node.js e FastAPI, sempre busc
 Java • Spring Boot • C# • .NET • Node.js • Express.js • FastAPI • APIs REST • JWT Authentication
 
 ### **Banco de Dados**
-PostgreSQL • MySQL • JPA/Hibernate • SQL
+PostgreSQL • MySQL • SQL Server • JPA/Hibernate • SQL
 
 ### **Arquitetura & Boas Práticas**
 Layered Architecture • DTOs • Clean Code • SOLID • API Validation • Exception Handling
