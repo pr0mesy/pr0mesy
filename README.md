@@ -9,7 +9,7 @@ Atualmente também desenvolvo projetos utilizando Node.js e FastAPI, sempre busc
 
 ## Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=java,spring,c#,dotnet,nodejs,python,fastapi,postgres,mysql,docker,git,linux,react)
+![Skills](https://skillicons.dev/icons?i=java,spring,nodejs,python,fastapi,postgres,mysql,docker,git,linux,react,dotnet,c#)
 
 ### **Backend**
 Java • Spring Boot • C# • .NET • Node.js • Express.js • FastAPI • APIs REST • JWT Authentication
