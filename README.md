@@ -51,8 +51,8 @@ SaaS de agendamento online para barbearias, salões e profissionais autônomos.
 
 ---
 
-## 📫 Contato
+## Contato
 
-💼 LinkedIn: https://www.linkedin.com/in/gabrielpromesy/  
-🌐 Portfólio: https://proencadev.base44.app/  
-📧 Email: gabrielpromesy07@gmail.com
+• LinkedIn: https://www.linkedin.com/in/gabrielpromesy/  
+• Portfólio: https://proencadev.base44.app/  
+• Email: gabrielpromesy07@gmail.com
